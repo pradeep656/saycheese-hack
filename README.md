@@ -1,2 +1,0 @@
-# saycheese-hack
-saycheese hack
